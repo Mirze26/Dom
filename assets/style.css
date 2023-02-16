@@ -1,0 +1,36 @@
+
+/* .active{
+    color: red;
+}
+
+.header{
+    color: aqua;
+} */
+
+ body{
+    background-color: rgb(48, 47, 47);
+} 
+
+/* #products .icon i{
+    font-size: 70px;
+    color: gray;
+    cursor: pointer;
+}
+
+
+.active-icon{
+    color: yellow !important;
+}
+
+
+.active-body{
+    background-color: white !important;
+} */ 
+
+/* ------------------------------------------------- */
+
+
+button{
+    display:block !important;
+    margin: 0 auto;
+}
